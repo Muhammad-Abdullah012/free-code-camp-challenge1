@@ -3,8 +3,9 @@
 	"version": "0.0.1",
 	"description": "API project for freeCodeCamp",
 	"main": "server.js",
+	"author": "Muhammad Abdullah",
 	"scripts": {
-		"start": "nodemon server.js"
+		"start": "node server.js"
 	},
 	"dependencies": {
 		"express": "^5.0.0-alpha.2",
@@ -13,7 +14,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://hyperdev.com/#!/project/welcome-project"
+		"url": "https://github.com/Muhammad-Abdullah012/free-code-camp-challenge1.git"
 	},
 	"keywords": [
 		"node",
